@@ -2,7 +2,26 @@
 
  The code for 《 Spatial Invertible Network With Mamba-Convolution for  Hyperspectral Image Fusion》
 
-![Language](https://img.shields.io/badge/language-python-brightgreen) 
+![Language](https://img.shields.io/badge/language-python-brightgreen)
+![Venue](https://img.shields.io/badge/IEEE%20JSTSP-2025-00629B)
+
+> **Published in** *IEEE Journal of Selected Topics in Signal Processing*, vol. 19, no. 8, pp. 1643 ff., Dec. 2025.
+> DOI: [10.1109/JSTSP.2025.3596518](https://doi.org/10.1109/JSTSP.2025.3596518)
+
+If you use this code, please cite:
+
+```bibtex
+@article{xiao2025sinet,
+  title   = {Spatial Invertible Network With Mamba-Convolution for Hyperspectral Image Fusion},
+  author  = {Xiao, Lin and Guo, Shuo and Mo, Feng and Song, Qiya and Yang, Yining and Liu, Yuanye and Wei, Xiaohui and Yang, Tao and Dian, Renwei},
+  journal = {IEEE Journal of Selected Topics in Signal Processing},
+  volume  = {19},
+  number  = {8},
+  year    = {2025},
+  doi     = {10.1109/JSTSP.2025.3596518}
+}
+```
+
 
 Our model was trained on an NVIDIA A800-SXM4-80GB GPU.
 
